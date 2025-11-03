@@ -1,6 +1,3 @@
-# 💻 CODSOFT Internship Projects – Python (June 2025)
-
-This repository contains all the Python tasks completed as part of my **CodeSoft Internship**. Each project is beginner-friendly, written in Python, and demonstrates basic programming concepts like conditionals, loops, functions, and user interaction.
 
 ---
 
